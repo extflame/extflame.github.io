@@ -1,7 +1,7 @@
 # Hello!
-Welcome to extFlame :tw-1f525:.
+Welcome to extFlame 🔥
 
 ------------
-There are our first extensions :tw-1f60a: :
+There are our first extensions 😄
 
 [PassReveal](https://github.com/extflame/passreveal "PassReveal")
